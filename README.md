@@ -1,4 +1,6 @@
-# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# EX 5: CREATING A WAREHOUSE APPLICATION SALESFORCE.COM
+# Name:Sharon Harshini L M
+# Reg No:212223040193
 
 ## AIM:
 To create a warehouse application in salesforce.com
@@ -68,6 +70,20 @@ Note: Before inserting an image for the logo you need to use the following proce
 ![ex2-10](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9be0d550-d6ad-434e-82bb-74f9c05bfd2f)
 
 
+## Output:
+<img width="1914" height="1062" alt="image" src="https://github.com/user-attachments/assets/136d1eed-bcfa-47be-b77a-ae8ab7f51be7" />
+
+<img width="1916" height="1067" alt="image" src="https://github.com/user-attachments/assets/eff5edaa-ef28-4e8d-b7f6-c379f4f421dc" />
+
+<img width="1909" height="1060" alt="image" src="https://github.com/user-attachments/assets/1bfb36de-1b3a-4d62-bb3f-ccf95eb6777e" />
+
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/740f3743-d06a-4048-a7e9-bfa1870f7300" />
+
+<img width="1916" height="1000" alt="image" src="https://github.com/user-attachments/assets/a590e0d8-b34e-4ed6-9091-2c244cd6b631" />
+
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/d61cdc2f-8e0e-42bf-b846-6d4118a7f7a6" />
+
+<img width="1429" height="461" alt="image" src="https://github.com/user-attachments/assets/f7b7706d-deae-4074-b79c-dd1bed4b180f" />
 
 
 ## RESULT:
